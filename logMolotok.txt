@@ -1,0 +1,240 @@
+Array
+(
+    [0] => Array
+        (
+            [ID] => 8
+            [UF_DATE] => Bitrix\Main\Type\DateTime Object
+                (
+                    [userTimeEnabled:protected] => 
+                    [value:protected] => DateTime Object
+                        (
+                            [date] => 2022-12-17 14:22:00.000000
+                            [timezone_type] => 3
+                            [timezone] => Europe/Moscow
+                        )
+
+                )
+
+            [UF_PERCENT] => 11
+            [UF_USER_ID] => 1
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [ID] => 8
+            [UF_DATE] => Bitrix\Main\Type\DateTime Object
+                (
+                    [userTimeEnabled:protected] => 
+                    [value:protected] => DateTime Object
+                        (
+                            [date] => 2022-12-17 14:22:00.000000
+                            [timezone_type] => 3
+                            [timezone] => Europe/Moscow
+                        )
+
+                )
+
+            [UF_PERCENT] => 11
+            [UF_USER_ID] => 1
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [ID] => 8
+            [UF_DATE] => Bitrix\Main\Type\DateTime Object
+                (
+                    [userTimeEnabled:protected] => 
+                    [value:protected] => DateTime Object
+                        (
+                            [date] => 2022-12-17 14:22:00.000000
+                            [timezone_type] => 3
+                            [timezone] => Europe/Moscow
+                        )
+
+                )
+
+            [UF_PERCENT] => 11
+            [UF_USER_ID] => 1
+        )
+
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
+Array
+(
+    [ID] => 8
+    [UF_DATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [userTimeEnabled:protected] => 
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2022-12-17 14:22:00.000000
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [UF_PERCENT] => 11
+    [UF_USER_ID] => 1
+)
+
